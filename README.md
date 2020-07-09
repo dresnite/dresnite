@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my profile!
+
+I'm GiantQuartz, a software developer from Spain. 🇪🇸
+
+I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift. I'm currently working on [PrimeGames](https://primegames.net) as lead software developer.
+
+If you want know more about me, follow me [on twitter](https://twitter.com/GiantQuartz).
 
 <!--
 **GiantQuartz/GiantQuartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
