@@ -1,6 +1,12 @@
-### Welcome to my profile!
+<h3 align="center">👋 Hey! I'm GiantQuartz</h3>
+<p align="center">
+  <a href="https://discord.gg/rfpx8xx">Discord</a> •
+  <a href="https://twitter.com/GiantQuartz">Twitter</a>
+</p>
 
-I'm GiantQuartz, a software developer from Spain. 🇪🇸
+---
+
+My name is Andrew, I am a software developer from Spain. 🇪🇸
 
 I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift. I'm currently working on [PrimeGames](https://primegames.net) as lead software developer.
 
