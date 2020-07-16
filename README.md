@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hey! I'm GiantQuartz</h3>
 <p align="center">
-  <a href="https://discord.gg/rfpx8xx">Discord</a> •
   <a href="https://twitter.com/GiantQuartz">Twitter</a>
 </p>
 
@@ -8,7 +7,7 @@
 
 My name is Andrew, I am a software developer from Spain. 🇪🇸
 
-I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift. I'm currently working on [PrimeGames](https://primegames.net) as lead software developer.
+I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift. I'm currently working on [Hysland](https://twitter.com/HyslandOfficial) as lead software developer.
 
 If you want to know more about me, follow me [on twitter](https://twitter.com/GiantQuartz).
 
