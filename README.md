@@ -7,7 +7,7 @@
 
 My name is Andrew, I am a software developer from Spain. 🇪🇸
 
-I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift. I'm currently working on [Hysland](https://twitter.com/HyslandOfficial) as lead software developer.
+I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift.
 
 If you want to know more about me, follow me [on twitter](https://twitter.com/GiantQuartz).
 
