@@ -1,6 +1,7 @@
 <h3 align="center">👋 Hey! I'm GiantQuartz</h3>
 <p align="center">
-  <a href="https://twitter.com/GiantQuartz">Twitter</a>
+  <a href="https://twitter.com/GiantQuartz">Twitter</a> •
+  <a href="mailto:andresbytes@gmail.com">andresbytes@gmail.com</a>
 </p>
 
 ---
