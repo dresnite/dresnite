@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hey! I'm Andrés</h3>
 <p align="center">
   <a href="https://twitter.com/andresbytes">Twitter</a> •
-  <a href="mailto:andresbytes@gmail.com">andresbytes@gmail.com</a>
+  <a href="mailto:andres@hysland.net">andres@hysland.net</a>
 </p>
 
 ---
