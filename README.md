@@ -5,9 +5,10 @@
 </p>
 
 ---
+Hi there! My name is Abner and I am a software developer. I currently work for [Hydreon Corporation](https://hydreon.com/), a Minecraft company, where I contribute to the development of the Lifeboat server. In addition to my work at Hydreon Corporation, I also run my own Minecraft server company called [Hysland LLC](https://hysland.com).
 
-My name is Abner, I am a software developer from Spain. 🇪🇸
+PHP is my primary language of choice, but I also have experience with Java and JavaScript. I am passionate about using technology to create meaningful projects and am always looking to improve my skills and learn new things.
 
-I have over 5 years of experience working with PHP, but I have also worked with other languages such as Java, C#, JavaScript or Swift.
+In my free time, I enjoy staying up-to-date with the latest developments in the tech industry and experimenting with new technologies. I am also an avid fan of Minecraft and enjoy using my coding skills to bring new experiences to the game.
 
-If you want to know more about me, follow me [on twitter](https://twitter.com/dresnite).
+Thank you for visiting my GitHub profile! I hope you find my projects and contributions helpful and interesting. Feel free to reach out if you have any questions or just want to chat about tech.
