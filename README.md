@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hey! I'm Dresnite</h3>
 <p align="center">
   <a href="https://twitter.com/dresnite">Twitter</a> •
-  <a href="mailto:dresnite@hysland.com">abner@hysland.com</a>
+  <a href="mailto:dresnite@hysland.com">dresnite@hysland.com</a>
 </p>
 
 ---
