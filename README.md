@@ -6,7 +6,7 @@
 
 ---
 
-Hello there! If you're here, it probably means you want to know who I am or what I'm up to, so let's make this quick:
+Hello! If you're here, it probably means you want to know who I am or what I'm up to, so let's make this quick:
 
 <strong>My name is Andrés, and I'm a self-taugh developer building in public.</strong>
 
