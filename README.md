@@ -16,3 +16,5 @@ I'm also a big fan of open source, here are some of the projects that I've contr
 - [NPCDialog](https://github.com/dresnite/npcdialog): PocketMine-MP virion to add dialogs to entities
 - [EasyUI](https://github.com/dresnite/easyui): An easy-to-use form library for PocketMine-MP
 - [Pigify](https://github.com/pigifyapp/pigify-core): A platform to force yourself to save money
+
+If you're interested in my journey, [follow me on X](https://x.com/dresnite). I (try to) post daily content on technology and indie hacking.
