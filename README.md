@@ -6,8 +6,8 @@ Previously I worked at [Lifeboat](https://twitter.com/LifeboatNetwork) as Softwa
 
 In my free time, I like to make things and write about everything that I discover along the way:
 
-- [How to Become Your Best Version In 2023](https://dresnite.com/how-to-become-your-best-version-in-2023)
-- [I'm Launching 12 Startups in 12 Months in 2023](https://dresnite.com/im-launching-12-startups-in-12-months-in-2023)
+- [How to Become Your Best Version In 2023](https://blog.dresnite.com/how-to-become-your-best-version-in-2023)
+- [I'm Launching 12 Startups in 12 Months in 2023](https://blog.dresnite.com/im-launching-12-startups-in-12-months-in-2023)
 
 I'm also a big fan of open source, here are some of the projects that I've contributed to:
 
