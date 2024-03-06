@@ -2,7 +2,7 @@
 
 I'm Andrés Arias, a 22-year-old self-taught developer who loves technology.
 
-Previously I worked at [Lifeboat](https://twitter.com/LifeboatNetwork) as Software Developer, building minigames for the entertainment of millions. Recently, I started a new journey as Senior Full Stack Developer at [Wetaca](https://wetaca.com), building one of the leading food tech companies.
+Previously I worked at [Lifeboat](https://twitter.com/LifeboatNetwork) as Software Developer, building minigames for the entertainment of millions. Recently, I started a new journey as Senior Full Stack Developer at [Wetaca](https://wetaca.com), where I will work to improve one of the leading food tech companies in Spain.
 
 In my free time, I like to make things and write about everything that I discover along the way:
 
