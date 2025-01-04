@@ -1,8 +1,6 @@
 ### Hey, nice to see you! 👋
 
-I'm Andrés Arias, a 23-year-old self-taught developer who loves technology.
-
-Previously I worked at [Lifeboat](https://twitter.com/LifeboatNetwork) as Software Developer, building minigames for the entertainment of millions. Recently, I started a new journey as Senior Full Stack Developer at [Wetaca](https://wetaca.com), where I will work to improve one of the leading food tech companies in Spain.
+I'm Andrés Arias, a 23-year-old self-taught developer who loves technology. Currently, I work at [Trustoo](https://trustoo.nl), developing one of the largest service marketplaces in Europe.
 
 In my free time, I like to make things and write about everything that I discover along the way.
 
