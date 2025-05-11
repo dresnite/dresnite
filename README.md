@@ -1,6 +1,6 @@
 ### Hey, nice to see you! 👋
 
-I'm Andrés Arias, a 23-year-old self-taught developer who loves technology. Currently, I work at [Trustoo](https://trustoo.nl), developing one of the largest service marketplaces in Europe.
+I'm Andrés Arias, a 24-year-old self-taught developer who loves technology. Currently, I work at [Trustoo](https://trustoo.nl), developing one of the largest service marketplaces in Europe.
 
 In my free time, I like to make things and write about everything that I discover along the way.
 
